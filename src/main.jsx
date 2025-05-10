@@ -4,7 +4,7 @@ import "./index.css"
 import App from "./App.jsx"
 
 createRoot(document.getElementById("root")).render(
-    <BrowserRouter basename="/ProjectReact_RickMorty">
+    <BrowserRouter basename="/ProjectReact_RickMorty2-main">
         <App />
     </BrowserRouter>,
 )
