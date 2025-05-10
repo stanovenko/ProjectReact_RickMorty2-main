@@ -1,0 +1,41 @@
+.mainWrapper {
+    background: linear-gradient(var(--slate-200), var(--slate-200-20)), url("../../assets/img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.title {
+    font-size: 100px;
+    color: black;
+}
+
+.linkWrapper {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.link {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: background-color 0.3s;
+}
+
+.link:hover {
+    background-color: #333;
+}
+
+/** {*/
+/*    border: 1px solid red !important;*/
+/*}*/
