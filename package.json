@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://stanovenko.github.io/ProjectReact_RickMorty2",
+  "homepage": "https://stanovenko.github.io/ProjectReact_RickMorty2-main",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
